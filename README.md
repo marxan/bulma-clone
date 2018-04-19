@@ -2,7 +2,9 @@
 
 ## Instructions
 
-The goal is to create a copy-cat of https://mythril.io/ with [Bulma CSS Framework](https://bulma.io)
+The goal is to create a copy-cat of https://mythril.io/ with [Bulma CSS Framework](https://bulma.io).
+
+To start, you can either clone the project (if you are a Git master) or [download the Zip](https://github.com/mc100s/bulma-clone/archive/master.zip).
 
 
 ## First steps
