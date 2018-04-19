@@ -2,7 +2,7 @@
 
 ## Instructions
 
-The goal is to create a copy-cat of https://mythril.io/
+The goal is to create a copy-cat of https://mythril.io/ with [Bulma CSS Framework](https://bulma.io)
 
 
 ## First steps
@@ -213,33 +213,35 @@ To do that, you can replace your current section with the following one.
 ### Trending section
 
 For that section, you will need to use:
-- [https://bulma.io/documentation/columns/responsiveness/](Bulma Columns responsivness)
+- [Bulma Columns responsivness](https://bulma.io/documentation/columns/responsiveness/)
 
 
 ### Recent Game Reviews section
 
 For that section, you will need to use:
-- [https://bulma.io/documentation/elements/notification/](Bulma notification)
-- [https://bulma.io/documentation/elements/tag/](Bulma tag)
+- [Bulma notification](https://bulma.io/documentation/elements/notification/)
+- [Bulma tag](https://bulma.io/documentation/elements/tag/)
 
 
 ### Recent Game Recommendations section
 
 For that section, you will need to use:
-- [https://bulma.io/documentation/columns/basics/](Bulma Columns basics)
-- [https://bulma.io/documentation/elements/button/](Bulma buttons)
+- [Bulma Columns basics](https://bulma.io/documentation/columns/basics/)
+- [Bulma buttons](https://bulma.io/documentation/elements/button/)
 
 
 ### Statistics section
 
 For that section, you will need to use:
-- [https://bulma.io/documentation/layout/hero/](Bulma Hero)
-- [https://bulma.io/documentation/columns/responsiveness/](Bulma Columns responsivness)
+- [Bulma Hero](https://bulma.io/documentation/layout/hero/)
+- [Bulma Columns responsivness](https://bulma.io/documentation/columns/responsiveness/)
 
 
 ### Add your own CSS file
 
 For that part, you can just create a `style.css` file and link it in your `index.html`:
 
-
+```html
+<link rel="stylesheet" href="style.css">
+```
 
